@@ -49,6 +49,7 @@ public class JObf {
     //#if buildType=="gui"
     private static GUI gui;
     //#endif
+	//sex
 
     public static void main(String[] args) throws Exception {
         if (JObf.class.getPackage().getImplementationVersion() == null) {
